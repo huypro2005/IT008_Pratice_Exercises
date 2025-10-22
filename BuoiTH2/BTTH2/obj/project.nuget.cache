@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqKfRdhtXkM=",
+  "success": true,
+  "projectFilePath": "D:\\CodeMonHoc\\IT008\\IT008_new\\buoi4LT\\BTTH2\\BTTH2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
