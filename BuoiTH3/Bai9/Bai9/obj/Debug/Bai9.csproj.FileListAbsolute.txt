@@ -1,0 +1,52 @@
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.Form1.resources
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.Properties.Resources.resources
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.csproj.GenerateResource.cache
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\bin\Debug\Bai9.exe.config
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\bin\Debug\Bai9.exe
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\bin\Debug\Bai9.pdb
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.exe
+C:\IT008\BTH3_TạNgọcÂn_23520030\Bai9\Bai9\obj\Debug\Bai9.pdb
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Bai9.exe.config
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Bai9.exe
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Bai9.pdb
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\BouncyCastle.Cryptography.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Google.Protobuf.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\K4os.Compression.LZ4.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\K4os.Hash.xxHash.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\MySql.Data.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Buffers.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.IO.Pipelines.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Memory.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Numerics.Vectors.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\ZstdSharp.dll
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\BouncyCastle.Cryptography.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Google.Protobuf.pdb
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Google.Protobuf.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\K4os.Compression.LZ4.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\K4os.Hash.xxHash.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\MySql.Data.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Buffers.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.IO.Pipelines.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Memory.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Numerics.Vectors.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.AssemblyReference.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.exe.config
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.Form1.resources
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.Properties.Resources.resources
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.GenerateResource.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.CoreCompileInputs.cache
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.csproj.Up2Date
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.exe
+D:\CodeMonHoc\IT008\IT008_new\BTTH IT008\BuoiTH3\Bai9\Bai9\obj\Debug\Bai9.pdb
