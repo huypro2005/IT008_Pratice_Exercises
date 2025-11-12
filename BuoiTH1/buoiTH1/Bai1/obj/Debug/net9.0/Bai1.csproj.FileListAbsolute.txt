@@ -1,0 +1,15 @@
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\bin\Debug\net9.0\Bai1.exe
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\bin\Debug\net9.0\Bai1.deps.json
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\bin\Debug\net9.0\Bai1.runtimeconfig.json
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\bin\Debug\net9.0\Bai1.dll
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\bin\Debug\net9.0\Bai1.pdb
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.AssemblyInfoInputs.cache
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.AssemblyInfo.cs
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.csproj.CoreCompileInputs.cache
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.dll
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\refint\Bai1.dll
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.pdb
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.genruntimeconfig.cache
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\ref\Bai1.dll
+D:\CodeMonHoc\IT008\IT008_new\buoiTH1\Bai1\obj\Debug\net9.0\Bai1.sourcelink.json
