@@ -69,6 +69,7 @@
             hệThốngToolStripMenuItem.Name = "hệThốngToolStripMenuItem";
             hệThốngToolStripMenuItem.Size = new Size(85, 24);
             hệThốngToolStripMenuItem.Text = "Hệ thống";
+            hệThốngToolStripMenuItem.Click += hệThốngToolStripMenuItem_Click;
             // 
             // NewFileMenu
             // 
@@ -77,11 +78,13 @@
             NewFileMenu.ShortcutKeys = Keys.Control | Keys.N;
             NewFileMenu.Size = new Size(285, 26);
             NewFileMenu.Text = "Tạo văn bản mới";
+            NewFileMenu.Click += NewFileMenu_Click_1;
             // 
             // openFIleMenu
             // 
             openFIleMenu.Image = (Image)resources.GetObject("openFIleMenu.Image");
             openFIleMenu.Name = "openFIleMenu";
+            openFIleMenu.ShortcutKeys = Keys.Control | Keys.O;
             openFIleMenu.Size = new Size(285, 26);
             openFIleMenu.Text = "Mở tập tin";
             openFIleMenu.Click += OpenFileToolStripMenuItem_Click;
@@ -219,6 +222,7 @@
             richTextBox1.Size = new Size(800, 394);
             richTextBox1.TabIndex = 2;
             richTextBox1.Text = "";
+            richTextBox1.TextChanged += richTextBox1_TextChanged;
             // 
             // Form1
             // 

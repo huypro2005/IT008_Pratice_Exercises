@@ -251,5 +251,27 @@ namespace Bai4
                 MessageBox.Show("Lỗi chọn size: " + ex.Message);
             }
         }
+
+        private void hệThốngToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void NewFileMenu_Click_1(object sender, EventArgs e)
+        {
+            DialogResult result = MessageBox.Show("Are you sure you want to create a new file?", "Confirm", MessageBoxButtons.YesNo);
+            if (result == DialogResult.Yes)
+            {
+                richTextBox1.Clear();
+
+                cmbFont.SelectedItem = "Tahoma";
+                cmbSize.SelectedItem = 14;
+            }
+        }
+
+        private void richTextBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
